@@ -23,6 +23,7 @@ export default {
     require('./about').default,
     require('./privacy').default,
     require('./admin').default,
+    require('./jokes').default,
 
     // Wildcard routes, e.g. { path: '*', ... } (must go last)
     require('./notFound').default,
@@ -31,6 +32,8 @@ export default {
   async action({ next }) {
     // Execute each child route until one of them return the result
     const route = await next();
+
+    console.log('Loading client side route');
 
     // Provide default values for title, description etc.
     route.title = `${route.title || 'Untitled Page'} - www.reactstarterkit.com`;

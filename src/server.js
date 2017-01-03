@@ -123,6 +123,9 @@ app.get('*', async (req, res, next) => {
     }
 
     const html = ReactDOM.renderToStaticMarkup(<Html {...data} />);
+
+    console.log(`Rendering page ${req.url} for server load.`);
+
     res.status(route.status || 200);
     res.send(`<!doctype html>${html}`);
   } catch (err) {

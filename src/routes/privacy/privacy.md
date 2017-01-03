@@ -1,5 +1,6 @@
 ---
 title: Privacy Policy
+author: John Morris
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean consequat
 tortor fermentum mi fermentum dignissim. Nullam vel ipsum ut ligula elementum
@@ -23,19 +24,29 @@ tempor. Sed porttitor, neque ac efficitur gravida, arcu lacus pharetra dui, in
 consequat elit tellus auctor nulla. Donec placerat elementum diam, vitae
 imperdiet lectus luctus at.
 
+# Header One
+
 Nullam eu feugiat mi. Quisque nec tristique nisl, dignissim dictum leo. Nam
 non quam nisi. Donec rutrum turpis ac diam blandit, id pulvinar mauris
 suscipit. Pellentesque tincidunt libero ultricies risus iaculis, sit amet
-consequat velit blandit. Fusce quis varius nulla. Nullam nisi nisi, suscipit
+consequat velit blandit.
+
+-----
+
+Fusce quis varius nulla. Nullam nisi nisi, suscipit
 ut magna quis, feugiat porta nibh. Sed id enim lectus. Suspendisse elementum
 justo sapien, sit amet consequat orci accumsan et. Aliquam ornare ullamcorper
 sem sed finibus. Nullam ac lacus pulvinar, egestas felis ut, accumsan est.
+
+## Sub Header One
 
 Pellentesque sagittis vehicula sem quis luctus. Proin sodales magna in lorem
 hendrerit aliquam. Integer eu varius orci. Vestibulum ante ipsum primis in
 faucibus orci luctus et ultrices posuere cubilia Curae; Vestibulum ante ipsum
 primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut at mauris
 nibh. Suspendisse maximus ac eros at vestibulum.
+
+## Sub Header Two
 
 Interdum et malesuada fames ac ante ipsum primis in faucibus. Quisque egestas
 tortor et dui consequat faucibus. Nunc vitae odio ornare, venenatis ligula a,
